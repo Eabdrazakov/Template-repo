@@ -4,7 +4,10 @@
 
 <p>Description of application</p>
 
-_Open [gh-page site]()_
+## Link to site on Github Pages:
+
+_[GitHub page link](https://github.com/Eabdrazakov)_
+
 
 ## Technologies Used
 * _HTML_
@@ -19,9 +22,6 @@ _Open [gh-page site]()_
 * _Linter(ESLint)_
 * _Testing Framework(Jest)_
 
-## Description
-
-_Description(....)_
 
 ## Setup/Installation Requirements
 
@@ -35,6 +35,10 @@ _Description(....)_
 * _6. Starting a development server with `$ npm run start`._
 * _7. Linting JS files in the src folder with `$ npm run lint`._
 * _8. Running tests with Jest using `$ npm run test`._
+
+## Link to this application:
+
+_[Open]()_
 
 ## Test 
 
@@ -52,6 +56,11 @@ describe('', () => {
 ```
 ## Known Bugs
 * _No known issues._
+
+## Description
+
+_(....)_
+
 
 ## Contact information
 
