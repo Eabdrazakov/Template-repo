@@ -4,7 +4,7 @@
 
 <p>Description of application</p>
 
-## Link to site on Github Pages:
+<h3> Link to site on Github Pages:</h3>
 
 _[GitHub page link](https://github.com/Eabdrazakov)_
 
@@ -36,10 +36,6 @@ _[GitHub page link](https://github.com/Eabdrazakov)_
 * _7. Linting JS files in the src folder with `$ npm run lint`._
 * _8. Running tests with Jest using `$ npm run test`._
 
-## Link to this application:
-
-_[Open]()_
-
 ## Test 
 
 ```
@@ -61,6 +57,9 @@ describe('', () => {
 
 _(....)_
 
+## Link to this application:
+
+_[Open]()_
 
 ## Contact information
 
