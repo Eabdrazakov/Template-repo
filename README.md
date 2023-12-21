@@ -33,7 +33,7 @@ _[GitHub page link](https://github.com/Eabdrazakov)_
 * _4. Install all packages with `$ npm install`._
 * _5. Building the project using webpack with `$ npm run build`._
 * _6. Starting a development server with `$ npm run start`._
-* _7. Linting JS files in the src folder with `$ npm run lint`._
+* _7. Linting JS files in the `src` folder with `$ npm run lint`._
 * _8. Running tests with Jest using `$ npm run test`._
 
 ## Test 
