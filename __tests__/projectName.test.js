@@ -1,4 +1,4 @@
-import(...) from './../src/js/projectName.js';
+//import(...) from './../src/js/projectName.js';
 
 describe('', () => {
 
